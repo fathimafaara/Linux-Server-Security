@@ -41,3 +41,7 @@ This project demonstrates user and group management, file permissions, role-base
 ## Project Status
 
 Core security configurations and inital security auditing completed.
+
+## Author
+
+Fathima Faara
