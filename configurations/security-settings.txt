@@ -1,0 +1,14 @@
+LINUX SERVER SECURITY SETTINGS
+
+SSH:
+
+PermitRootLogin no
+MaxAuthTries 3
+LoginGraceTime 30
+PasswordAuthentication yes
+
+Firewall:
+
+UFW enabled
+OpenSSH allowed
+Ipv4 and Ipv6 rules enabled
