@@ -45,3 +45,5 @@ Core security configurations and inital security auditing completed.
 ## Author
 
 Fathima Faara
+
+Aspiring Cloud Engineer | Cloud Computing & Networking | Python | Software Development
